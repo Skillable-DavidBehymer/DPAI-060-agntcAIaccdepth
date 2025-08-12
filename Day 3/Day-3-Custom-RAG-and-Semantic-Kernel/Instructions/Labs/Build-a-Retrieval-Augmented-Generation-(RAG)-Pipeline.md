@@ -231,4 +231,4 @@ In this exercise, you have accomplished the following tasks:
 - Task 3: Generated Responses with Augmented Knowledge
 - Task 4: Added telemetry logging
 
-### You have successfully finished the exercise. Click **Next** to continue to the next exercise.  
+### You have successfully finished the exercise. Click **Next** to continue to the next exercise. 
